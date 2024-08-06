@@ -18,6 +18,7 @@ public class Lab {
      * @return any object.
      */
     public Object instantiateANewObject(){
-        return null;
+        int[] array = new int[3]; 
+        return array;
     }
 }
